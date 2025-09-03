@@ -6,7 +6,7 @@ You can easily convert between **Celsius and Fahrenheit** with a clean and moder
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project on Netlify](https://your-netlify-link.netlify.app)
+🔗 [View Project on Netlify]([https://your-netlify-link.netlify.app](https://tempctof.netlify.app/))
 
 ---
 
